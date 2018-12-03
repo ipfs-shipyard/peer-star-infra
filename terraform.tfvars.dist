@@ -1,0 +1,3 @@
+heroku_api_key = "__FILL_ME_OUT__"
+aws_access_key = "__FILL_ME_OUT__"
+aws_secret_key = "__FILL_ME_OUT__"
